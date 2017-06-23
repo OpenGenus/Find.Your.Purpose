@@ -22,4 +22,17 @@ Welcome to the Find.Your.Purpose wiki!
 
 * [David Shepherd Foundation](https://davidshepherd.org/): Build a world where man shares the planet in harmony with other creatures living in their natural habitat.
 
+* [Gates Foundation](http://www.gatesfoundation.org/): Enhance education through innovation, improve nutrition to reduce child deaths, invest in healthy mothers and babies and tackle poverty in WA state
+
+* [Greenpeace USA](http://www.greenpeace.org/usa/): Greenpeace will never stop fighting for a greener, healthier world for our oceans, forests, food, climate, and democracy—no matter what forces stand in our way.
+
+* [Invisible Children](http://invisiblechildren.com/): end violence and exploitation facing our world’s most isolated and vulnerable communities.
+
+* [Nashville Zoo](https://www.nashvillezoo.org/): progressive and dynamic zoological park serving Middle Tennessee, southern Kentucky and hundreds of thousands of tourists that travel to Nashville every year.
+
+
+* [Room to Read](https://www.roomtoread.org/): transform the lives of millions of children in low-income countries by focusing on literacy and gender equality in education. 
+
+* [Save the Storks](https://savethestorks.com/): Serving Mothers and Saving Babies
+
 
