@@ -52,4 +52,8 @@ Welcome to the Find.Your.Purpose wiki!
 * [GoFundMe](https://www.gofundme.com/), [YouCaring](https://www.youcaring.com/): To raise for any reason
 * [CrowdRise](https://www.crowdrise.com/): To raise funds for non-profits, companies or individuals
 
+# Helping people find the right job
+
+* [Indeed](https://www.indeed.com), [Glassdoor](https://www.glassdoor.com): exhaustive list of jobs opportunities with reviews
+* [LinkedIn](https://www.linkedin.com/): Help to connect with people to negotiate the right job
 
