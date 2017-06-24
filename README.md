@@ -46,4 +46,10 @@ Welcome to the Find.Your.Purpose wiki!
 * [Flickr](https://www.flickr.com/), [Instagram](http://instagram.com/), [Pinterest](https://en.wikipedia.org/wiki/Pinterest), [DeviantArt](http://www.deviantart.com/): connecting people through photographs and art
 * [Meetup](http://meetup.com/), [FourSquare](foursqure.com): To facilitate offline meeting
 
+# Helping people with loans and funds
+
+* [Watsi](https://watsi.org/): To fund medical treatment 
+* [GoFundMe](https://www.gofundme.com/), [YouCaring](https://www.youcaring.com/): To raise for any reason
+* [CrowdRise](https://www.crowdrise.com/): To raise funds for non-profits, companies or individuals
+
 
