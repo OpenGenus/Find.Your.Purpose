@@ -16,6 +16,11 @@ Welcome to the Find.Your.Purpose wiki!
 * [World Food Programme](http://www1.wfp.org/): improving food security and nutrition in over 80 countries
 * [Feed the Hunger](https://feedthehungry.org/), [Fight Hunger Foundation](http://fighthungerfoundation.org)
 
+# Helping Mothers and Babies
+
+* [Save the Storks](https://savethestorks.com/): Serving Mothers and Saving Babies
+* [Adopt A Love Story](https://www.adoptalovestory.com/): Helping Families Overcome Financial Obstacles to Adoption
+
 # Education oriented mission
 
 * [Coursera](https://www.coursera.org/), [Khan Academy](https://www.khanacademy.org/), [Open Culture Online Courses](http://www.openculture.com/freeonlinecourses), [Udemy](https://www.udemy.com/), [Academic Earth](http://academicearth.org/) 
