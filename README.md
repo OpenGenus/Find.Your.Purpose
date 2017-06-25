@@ -1,5 +1,10 @@
 Welcome to the Find.Your.Purpose wiki!
 
+# Helping people get clean water
+
+* [Charity: Water](https://www.charitywater.org/): brings clean and safe drinking water to people in need around the world, improving health, education, and opportunity - especially for women and children.
+* [Water.org](Water.org): believes water is the way. To break the cycle of poverty. To protect and save lives. To make a bright future possible for all.
+
 # Non-profits with a purpose
 
 * [Water.org](Water.org): believes water is the way. To break the cycle of poverty. To protect and save lives. To make a bright future possible for all.
