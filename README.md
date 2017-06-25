@@ -11,6 +11,11 @@ Welcome to the Find.Your.Purpose wiki!
 * [The Global Fund](https://www.theglobalfund.org/): fighting AIDS, malaria, and tuberculosis
 * [Bill and Melinda Gates Foundation](http://www.gatesfoundation.org/What-We-Do/Global-Health/HIV): fighting HIV
 
+# Helping the World fight hunger
+
+* [World Food Programme](http://www1.wfp.org/): improving food security and nutrition in over 80 countries
+* [Feed the Hunger](https://feedthehungry.org/), [Fight Hunger Foundation](http://fighthungerfoundation.org)
+
 # Education oriented mission
 
 * [Coursera](https://www.coursera.org/), [Khan Academy](https://www.khanacademy.org/), [Open Culture Online Courses](http://www.openculture.com/freeonlinecourses), [Udemy](https://www.udemy.com/), [Academic Earth](http://academicearth.org/) 
