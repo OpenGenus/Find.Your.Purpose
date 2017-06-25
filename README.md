@@ -57,3 +57,9 @@ Welcome to the Find.Your.Purpose wiki!
 * [Indeed](https://www.indeed.com), [Glassdoor](https://www.glassdoor.com): exhaustive list of jobs opportunities with reviews
 * [LinkedIn](https://www.linkedin.com/): Help to connect with people to negotiate the right job
 
+# Helping people fight obesity
+
+* [Obesity Action Coalition](http://www.obesityaction.org/)
+* [Action for healthy kids](http://www.actionforhealthykids.org/)
+* [Choices for Kids](http://www.choicesforkids.org/about-us-mission-to-fight-obesity/)
+
