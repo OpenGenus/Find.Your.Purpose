@@ -26,6 +26,11 @@ Welcome to the Find.Your.Purpose wiki!
 * [Room to Read](https://www.roomtoread.org/): transform the lives of millions of children in low-income countries by focusing on literacy and gender equality in education. 
 * [Invisible Children](http://invisiblechildren.com/): end violence and exploitation facing our world’s most isolated and vulnerable communities.
 
+# Making our Planet greener
+
+* [Greenpeace USA](http://www.greenpeace.org/usa/): Greenpeace will never stop fighting for a greener, healthier world for our oceans, forests, food, climate, and democracy—no matter what forces stand in our way.
+* [Conservation International](http://www.conservation.org/): protect nature for the benefits it provides to all of us: food, fresh water, livelihoods and a stable climate.
+
 # Education oriented mission
 
 * [Coursera](https://www.coursera.org/), [Khan Academy](https://www.khanacademy.org/), [Open Culture Online Courses](http://www.openculture.com/freeonlinecourses), [Udemy](https://www.udemy.com/), [Academic Earth](http://academicearth.org/) 
