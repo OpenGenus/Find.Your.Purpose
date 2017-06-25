@@ -67,4 +67,9 @@ Welcome to the Find.Your.Purpose wiki!
 
 * [Affordable Housing Online](https://affordablehousingonline.com/)
 
+# Helping people to drive safely
+
+* [Impact Teen Drivers](http://www.impactteendrivers.org/)
+* [Drop it and Drive](http://dropitanddrive.com/)
+
 
