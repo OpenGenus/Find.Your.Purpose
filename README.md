@@ -63,3 +63,8 @@ Welcome to the Find.Your.Purpose wiki!
 * [Action for healthy kids](http://www.actionforhealthykids.org/)
 * [Choices for Kids](http://www.choicesforkids.org/about-us-mission-to-fight-obesity/)
 
+# Helping people find an apartment
+
+* [Affordable Housing Online](https://affordablehousingonline.com/)
+
+
