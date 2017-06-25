@@ -21,6 +21,11 @@ Welcome to the Find.Your.Purpose wiki!
 * [Save the Storks](https://savethestorks.com/): Serving Mothers and Saving Babies
 * [Adopt A Love Story](https://www.adoptalovestory.com/): Helping Families Overcome Financial Obstacles to Adoption
 
+# Helping children live a better life
+
+* [Room to Read](https://www.roomtoread.org/): transform the lives of millions of children in low-income countries by focusing on literacy and gender equality in education. 
+* [Invisible Children](http://invisiblechildren.com/): end violence and exploitation facing our world’s most isolated and vulnerable communities.
+
 # Education oriented mission
 
 * [Coursera](https://www.coursera.org/), [Khan Academy](https://www.khanacademy.org/), [Open Culture Online Courses](http://www.openculture.com/freeonlinecourses), [Udemy](https://www.udemy.com/), [Academic Earth](http://academicearth.org/) 
