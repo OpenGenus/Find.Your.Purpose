@@ -1,4 +1,8 @@
-Welcome to the Find.Your.Purpose wiki!
+<h1 align="center">
+	<br>
+	<img width="200" src="https://github.com/AdiChat/Find.Your.Purpose/blob/master/store/logo.jpg" alt="be happy">
+	<br>
+</h1>
 
 # Helping people get clean water
 
