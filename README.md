@@ -4,6 +4,24 @@
 	<br>
 </h1>
 
+# Index
+
+* [Helping people get clean water](#helping-people-get-clean-water)
+* [Helping us to fight human diseases](#helping-us-to-fight-human-diseases)
+* [Helping the World fight hunger](#helping-the-world-fight-hunger)
+* [Helping Mothers and Babies](#helping-mothers-and-babies)
+* [Helping children live a better life](#helping-children-live-a-better-life)
+* [Making our Planet greener](#making-our-planet-greener)
+* [Helping animals survive along with us](#helping-animals-survive-along-with-us)
+* [Education oriented mission](#education-oriented-mission)
+* [Helping People connect around the World](#helping-people-connect-around-the-world)
+* [Helping people with loans and funds](#helping-people-with-loans-and-funds)
+* [Helping people find the right job](#helping-people-find-the-right-job)
+* [Helping people fight obesity](#helping-people-fight-obesity)
+* [Helping people find an apartment](#helping-people-find-an-apartment)
+* [Helping people to drive safely](#helping-people-to-drive-safely)
+* [Helping fight cyberbullying](#helping-fight-cyberbullying)
+
 # Helping people get clean water
 
 * [Charity: Water](https://www.charitywater.org/): brings clean and safe drinking water to people in need around the world, improving health, education, and opportunity - especially for women and children.
