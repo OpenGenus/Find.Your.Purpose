@@ -4,6 +4,10 @@
 	<br>
 </h1>
 
+## Products making our Planet :earth_africa: a better place to live in
+
+This is a humble list to document products, communities and efforts which make our Planet better each day. Contributions would make the purpose of list meaningful and make this World better helping to bring a smile on a face. :smile: 
+
 # Index
 
 * [Helping people get clean water](#helping-people-get-clean-water)
