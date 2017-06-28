@@ -105,3 +105,8 @@ This is a humble list to document products, communities and efforts which make o
 * [It gets better](http://www.itgetsbetter.org/)
 
 
+---
+
+<p align="center">
+	<a href="https://github.com/AdiChat/Find.Your.Purpose/blob/master/store/CODE_OF_CONDUCT.md">Code of conduct</a> | <a href="https://github.com/AdiChat/Find.Your.Purpose/blob/master/store/CONTRIBUTE.md">Contribute</a>
+</p>
