@@ -29,7 +29,7 @@ This is a humble list to document products, communities and efforts which make o
 # Helping people get clean water
 
 * [Charity: Water](https://www.charitywater.org/): brings clean and safe drinking water to people in need around the world, improving health, education, and opportunity - especially for women and children.
-* [Water.org](Water.org): believes water is the way. To break the cycle of poverty. To protect and save lives. To make a bright future possible for all.
+* [Water.org](https://water.org/): believes water is the way. To break the cycle of poverty. To protect and save lives. To make a bright future possible for all.
 
 # Helping us to fight human diseases
 
