@@ -52,6 +52,7 @@ This is a humble list to document products, communities and efforts which make o
 
 * [Room to Read](https://www.roomtoread.org/): transform the lives of millions of children in low-income countries by focusing on literacy and gender equality in education. 
 * [Invisible Children](http://invisiblechildren.com/): end violence and exploitation facing our world’s most isolated and vulnerable communities.
+* [Kailash Satyarthi Children's Foundation](https://satyarthi.org.in/): preserve child rights by tackling child abuse and trafficking
 
 # Making our Planet greener
 
