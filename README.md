@@ -77,6 +77,7 @@ This is a humble list to document products, communities and efforts which make o
 * [Watsi](https://watsi.org/): To fund medical treatment 
 * [GoFundMe](https://www.gofundme.com/), [YouCaring](https://www.youcaring.com/): To raise for any reason
 * [CrowdRise](https://www.crowdrise.com/): To raise funds for non-profits, companies or individuals
+* [Kiva](https://www.kiva.org): To fund a indiviudal/organisation that you choose from categories of borrowers and get repaid
 
 # Helping people find the right job
 
