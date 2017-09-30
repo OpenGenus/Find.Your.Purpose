@@ -25,6 +25,7 @@ This is a humble list to document products, communities and efforts which make o
 * [Helping people find an apartment](#helping-people-find-an-apartment)
 * [Helping people to drive safely](#helping-people-to-drive-safely)
 * [Helping fight cyberbullying](#helping-fight-cyberbullying)
+* [Helping people to get breastfeeding support](#helping-people-to-get-breastfeeding-support)
 
 # Helping people get clean water
 
@@ -77,6 +78,8 @@ This is a humble list to document products, communities and efforts which make o
 * [Watsi](https://watsi.org/): To fund medical treatment 
 * [GoFundMe](https://www.gofundme.com/), [YouCaring](https://www.youcaring.com/): To raise for any reason
 * [CrowdRise](https://www.crowdrise.com/): To raise funds for non-profits, companies or individuals
+* [Kiva](https://www.kiva.com/): To connect people through lending to alleviate poverty
+
 
 # Helping people find the right job
 
@@ -104,6 +107,9 @@ This is a humble list to document products, communities and efforts which make o
 * [Stomp out bullying](http://www.stompoutbullying.org/)
 * [It gets better](http://www.itgetsbetter.org/)
 
+# Helping people to get breastfeeding support
+
+* [La Leche League](http://www.llli.org/): To help mothers worldwide to breastfeed through mother-to-mother support, encouragement, information, and education, and to promote a better understanding of breastfeeding as an important element in the healthy development of the baby and mother.
 
 ---
 
