@@ -114,7 +114,7 @@ This is a humble list to document products, communities and efforts which make o
 
 # Helping people to fight for rights and freedom
 
-* [Amenesty International](https://www.amnesty.org/en/): Amnesty International is an organisation focused on human rights. The organisation claims to have over 7 million members and supporters around the world.
+* [Amnesty International](https://www.amnesty.org/en/): Amnesty International is a global movement of more than 7 million people in over 150 countries and territories who campaign to end abuses of human rights.
 
 ---
 
