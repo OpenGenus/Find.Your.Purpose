@@ -26,6 +26,7 @@ This is a humble list to document products, communities and efforts which make o
 * [Helping people to drive safely](#helping-people-to-drive-safely)
 * [Helping fight cyberbullying](#helping-fight-cyberbullying)
 * [Helping people to get breastfeeding support](#helping-people-to-get-breastfeeding-support)
+* [Organisations fighting for rights and freedom](#organisations-fighting-for-rights-and-freedom)
 
 # Helping people get clean water
 
@@ -111,6 +112,9 @@ This is a humble list to document products, communities and efforts which make o
 
 * [La Leche League](http://www.llli.org/): To help mothers worldwide to breastfeed through mother-to-mother support, encouragement, information, and education, and to promote a better understanding of breastfeeding as an important element in the healthy development of the baby and mother.
 
+# Organisations fighting for rights and freedom
+
+* [Amnesty International] (https://www.amnesty.org/en/): Amnesty International is a global movement of more than 7 million people in over 150 countries and territories who campaign to end abuses of human rights.
 ---
 
 <p align="center">
