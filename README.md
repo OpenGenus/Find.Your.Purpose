@@ -114,7 +114,7 @@ This is a humble list to document products, communities and efforts which make o
 
 # Organisations fighting for rights and freedom
 
-* [Amnesty International] (https://www.amnesty.org/en/): Amnesty International is a global movement of more than 7 million people in over 150 countries and territories who campaign to end abuses of human rights.
+* [Amnesty International](https://www.amnesty.org/en/): Amnesty International is a global movement of more than 7 million people in over 150 countries and territories who campaign to end abuses of human rights.
 ---
 
 <p align="center">
