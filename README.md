@@ -74,6 +74,7 @@ This is a humble list to document products, communities and efforts which make o
 * [Academia](academia.edu): connecting researchers
 * [Flickr](https://www.flickr.com/), [Instagram](http://instagram.com/), [Pinterest](https://en.wikipedia.org/wiki/Pinterest), [DeviantArt](http://www.deviantart.com/): connecting people through photographs and art
 * [Meetup](http://meetup.com/), [FourSquare](foursqure.com): To facilitate offline meeting
+* [Zersey](https://zersey.com/): connecting people through blogs and similar interests.
 
 # Helping people with loans and funds
 
