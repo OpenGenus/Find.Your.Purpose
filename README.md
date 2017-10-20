@@ -66,7 +66,7 @@ This is a humble list to document products, communities and efforts which make o
 
 # Education oriented mission
 
-* [Coursera](https://www.coursera.org/), [Khan Academy](https://www.khanacademy.org/), [Open Culture Online Courses](http://www.openculture.com/freeonlinecourses), [Udemy](https://www.udemy.com/), [Academic Earth](http://academicearth.org/) 
+* [Coursera](https://www.coursera.org/), [Khan Academy](https://www.khanacademy.org/), [Open Culture Online Courses](http://www.openculture.com/freeonlinecourses), [Udemy](https://www.udemy.com/), [Academic Earth](http://academicearth.org/), [edX](https://www.edx.org/) 
 
 # Helping People connect around the World
 
