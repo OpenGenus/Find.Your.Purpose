@@ -66,7 +66,9 @@ This is a humble list to document products, communities and efforts which make o
 
 # Education oriented mission
 
-* [Coursera](https://www.coursera.org/), [Khan Academy](https://www.khanacademy.org/), [Open Culture Online Courses](http://www.openculture.com/freeonlinecourses), [Udemy](https://www.udemy.com/), [Academic Earth](http://academicearth.org/) 
+* [Coursera](https://www.coursera.org/), [Khan Academy](https://www.khanacademy.org/), [Open Culture Online Courses](http://www.openculture.com/freeonlinecourses), [Udemy](https://www.udemy.com/), [Academic Earth](http://academicearth.org/), [Udacity](https://www.udacity.com/), [MIT OCW](https://ocw.mit.edu/)
+, [Lynda](https://www.lynda.com/), [edX](https://www.edx.org/), [Techtud](http://www.techtud.com/)
+, [MyCodeSchool](http://mycodeschool.com/), [Unacademy](https://unacademy.com/), [NPTEL](http://nptel.ac.in/)
 
 # Helping People connect around the World
 
@@ -74,6 +76,7 @@ This is a humble list to document products, communities and efforts which make o
 * [Academia](academia.edu): connecting researchers
 * [Flickr](https://www.flickr.com/), [Instagram](http://instagram.com/), [Pinterest](https://en.wikipedia.org/wiki/Pinterest), [DeviantArt](http://www.deviantart.com/): connecting people through photographs and art
 * [Meetup](http://meetup.com/), [FourSquare](foursqure.com): To facilitate offline meeting
+* [Behance](https://www.behance.net/) : Connecting Designers
 
 # Helping people with loans and funds
 
