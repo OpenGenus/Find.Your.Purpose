@@ -59,6 +59,7 @@ This is a humble list to document products, communities and efforts which make o
 
 * [Greenpeace USA](http://www.greenpeace.org/usa/): Greenpeace will never stop fighting for a greener, healthier world for our oceans, forests, food, climate, and democracy—no matter what forces stand in our way.
 * [Conservation International](http://www.conservation.org/): protect nature for the benefits it provides to all of us: food, fresh water, livelihoods and a stable climate.
+* [Earth Charter Indiana](https://www.earthcharterindiana.org/): They inspire and advance sustainable, just and peaceful living in Indiana by promoting the values and principles of the earth charter.
 
 # Helping animals survive along with us
 
