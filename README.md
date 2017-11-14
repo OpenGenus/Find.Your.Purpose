@@ -59,6 +59,7 @@ This is a humble list to document products, communities and efforts which make o
 
 * [Greenpeace USA](http://www.greenpeace.org/usa/): Greenpeace will never stop fighting for a greener, healthier world for our oceans, forests, food, climate, and democracy—no matter what forces stand in our way.
 * [Conservation International](http://www.conservation.org/): protect nature for the benefits it provides to all of us: food, fresh water, livelihoods and a stable climate.
+* [Earth Charter Indiana](https://www.earthcharterindiana.org/): They inspire and advance sustainable, just and peaceful living in Indiana by promoting the values and principles of the earth charter.
 
 # Helping animals survive along with us
 
@@ -66,7 +67,9 @@ This is a humble list to document products, communities and efforts which make o
 
 # Education oriented mission
 
-* [Coursera](https://www.coursera.org/), [Khan Academy](https://www.khanacademy.org/), [Open Culture Online Courses](http://www.openculture.com/freeonlinecourses), [Udemy](https://www.udemy.com/), [Academic Earth](http://academicearth.org/), [edX](https://www.edx.org/) 
+* [Coursera](https://www.coursera.org/), [Khan Academy](https://www.khanacademy.org/), [Open Culture Online Courses](http://www.openculture.com/freeonlinecourses), [Udemy](https://www.udemy.com/), [Academic Earth](http://academicearth.org/), [Udacity](https://www.udacity.com/), [MIT OCW](https://ocw.mit.edu/), [edX](https://www.edx.org/)
+, [Lynda](https://www.lynda.com/), [edX](https://www.edx.org/), [Techtud](http://www.techtud.com/)
+, [MyCodeSchool](http://mycodeschool.com/), [Unacademy](https://unacademy.com/), [NPTEL](http://nptel.ac.in/)
 
 # Helping People connect around the World
 
@@ -74,6 +77,7 @@ This is a humble list to document products, communities and efforts which make o
 * [Academia](academia.edu): connecting researchers
 * [Flickr](https://www.flickr.com/), [Instagram](http://instagram.com/), [Pinterest](https://en.wikipedia.org/wiki/Pinterest), [DeviantArt](http://www.deviantart.com/): connecting people through photographs and art
 * [Meetup](http://meetup.com/), [FourSquare](foursqure.com): To facilitate offline meeting
+* [Behance](https://www.behance.net/) : Connecting Designers
 
 # Helping people with loans and funds
 
