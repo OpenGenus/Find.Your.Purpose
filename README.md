@@ -67,7 +67,7 @@ This is a humble list to document products, communities and efforts which make o
 
 # Education oriented mission
 
-* [Coursera](https://www.coursera.org/), [Khan Academy](https://www.khanacademy.org/), [Open Culture Online Courses](http://www.openculture.com/freeonlinecourses), [Udemy](https://www.udemy.com/), [Academic Earth](http://academicearth.org/), [Udacity](https://www.udacity.com/), [MIT OCW](https://ocw.mit.edu/)
+* [Coursera](https://www.coursera.org/), [Khan Academy](https://www.khanacademy.org/), [Open Culture Online Courses](http://www.openculture.com/freeonlinecourses), [Udemy](https://www.udemy.com/), [Academic Earth](http://academicearth.org/), [Udacity](https://www.udacity.com/), [MIT OCW](https://ocw.mit.edu/), [edX](https://www.edx.org/)
 , [Lynda](https://www.lynda.com/), [edX](https://www.edx.org/), [Techtud](http://www.techtud.com/)
 , [MyCodeSchool](http://mycodeschool.com/), [Unacademy](https://unacademy.com/), [NPTEL](http://nptel.ac.in/)
 
