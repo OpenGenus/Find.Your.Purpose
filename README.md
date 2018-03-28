@@ -90,6 +90,7 @@ This is a humble list to document products, communities and efforts which make o
 
 * [Indeed](https://www.indeed.com), [Glassdoor](https://www.glassdoor.com): exhaustive list of jobs opportunities with reviews
 * [LinkedIn](https://www.linkedin.com/): Help to connect with people to negotiate the right job
+* [Google Jobs](https://www.google.com): Finding job on Google Search [Reference:](https://www.independent.co.uk/life-style/gadgets-and-tech/google-jobs-employment-market-work-economy-finance-career-university-college-school-a8227891.html)
 
 # Helping people fight obesity
 
