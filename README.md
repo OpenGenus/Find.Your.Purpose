@@ -73,6 +73,7 @@ This is a humble list to document products, communities and efforts which make o
 
 # Helping People connect around the World
 
+* [Reddit](https://www.reddit.com/) : The front page of the internet
 * [Facebook](facebook.com), [Google+](https://plus.google.com/): To connect everyone on this planet
 * [Academia](academia.edu): connecting researchers
 * [Flickr](https://www.flickr.com/), [Instagram](http://instagram.com/), [Pinterest](https://en.wikipedia.org/wiki/Pinterest), [DeviantArt](http://www.deviantart.com/): connecting people through photographs and art
@@ -90,6 +91,7 @@ This is a humble list to document products, communities and efforts which make o
 
 * [Indeed](https://www.indeed.com), [Glassdoor](https://www.glassdoor.com): exhaustive list of jobs opportunities with reviews
 * [LinkedIn](https://www.linkedin.com/): Help to connect with people to negotiate the right job
+* [AngelList](https://angel.co/): Where the world meets startups.
 
 # Helping people fight obesity
 
